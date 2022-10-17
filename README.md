@@ -10,6 +10,8 @@
 
 ### Skills and tools:
 
-- SQL: PostgreSQL, Hive, Oracle, Teradata,
+<img src="https://github.com/favicon.ico" width="40">
+
+SQL: PostgreSQL, Hive, Oracle, Teradata,
 - Python: `pandas`, `pyplot`, `seaborn`, `sklearn`
 - Tableau, Qlik Sense
