@@ -10,8 +10,10 @@
 
 ### Skills and tools:
 
-<img src="https://github.com/favicon.ico" width="40">
+<img src="https://github.com/kvprikhodko/kvprikhodko/blob/main/db.png" width="25">: PostgreSQL, Hive, Oracle, Teradata
 
-SQL: PostgreSQL, Hive, Oracle, Teradata,
-- Python: `pandas`, `pyplot`, `seaborn`, `sklearn`
-- Tableau, Qlik Sense
+
+<img src="https://github.com/kvprikhodko/kvprikhodko/blob/main/py.png" width="25"> `pandas`, `pyplot`, `seaborn`, `sklearn`
+
+
+<img src="https://github.com/kvprikhodko/kvprikhodko/blob/main/dsb.png" width="25"> Tableau, Qlik Sense
