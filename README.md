@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/kseniia-p-25146072)
+- [LinkedIn](https://www.linkedin.com/in/kvprikhodko/)
 - Telegram @KseniaTom
 - Mail prikhodkokseniia@gmail.com
 
