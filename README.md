@@ -1,5 +1,5 @@
 ### Hi! My name is Ksenia and I'm a Data Analyst :bar_chart:
-- I have experience in analyzing a client data base, end-to-end analytics, building a sales funnel, developing financial and marketing reporting tools and visualizing results. 
+- I have experience in analyzing a client data base, end-to-end analytics, building a sales funnel, A/B testing, developing financial and marketing reporting tools and visualizing results. 
 - Currently I’m developing skills in Data Science. 
 
 ### Connect with me:
